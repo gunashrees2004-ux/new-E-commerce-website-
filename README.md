@@ -1,7 +1,7 @@
 # new-E-commerce-website-
 
 LiveDemo:
-https://gunaecomerce.ccbp.tech
+https://gunatrendz1.ccbp.tech
 
 ## Description
 This project is a ecommerece project where user can navigate through different routes, and browse the products, then the user can also add products to cart list
